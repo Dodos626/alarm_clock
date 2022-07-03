@@ -1,0 +1,7 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+alarm.txt
+.idea/
+__pycache__/thread_file.cpython-310.pyc
+__pycache__/alarm_functions.cpython-310.pyc
